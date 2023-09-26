@@ -1,28 +1,11 @@
-asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1685243452975/work
-beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1680888073205/work
-Brotli @ file:///D:/bld/brotli-split_1693583621767/work
-certifi==2023.7.22
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
 dj-database-url @ file:///home/conda/feedstock_root/build_artifacts/dj-database-url_1692119547398/work
 Django @ file:///home/conda/feedstock_root/build_artifacts/django_1693929744596/work
 django-bootstrap4 @ file:///home/conda/feedstock_root/build_artifacts/django-bootstrap4_1634749717176/work
 django-heroku @ file:///home/conda/feedstock_root/build_artifacts/django-heroku_1642605802805/work
 docopt==0.6.2
 gunicorn==21.2.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
-importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
-packaging==23.1
-pipreqs==0.4.13
 psycopg2 @ file:///D:/bld/psycopg2-split_1694260344402/work
 PyMySQL==1.1.0
-PySocks @ file:///D:/bld/pysocks_1661604991356/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1693930252784/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
-soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
 sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1681817562700/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1695040754690/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1695228328709/work
 whitenoise @ file:///home/conda/feedstock_root/build_artifacts/whitenoise_1686933972273/work
-win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
-yarg==0.1.9
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
